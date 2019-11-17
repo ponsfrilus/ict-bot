@@ -1,0 +1,1268 @@
+{
+  "100": {
+    "name": "Distinguer, préparer et évaluer des données",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion des données",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=100&noheader=0&clang=fr"
+  },
+  "101": {
+    "name": "Réaliser et publier un site Web",
+    "type": "1ère année d'apprentissage",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=101&noheader=0&clang=fr"
+  },
+  "103": {
+    "name": "Programmer dans un cadre prescrit (structuré)",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=103&noheader=0&clang=fr"
+  },
+  "104": {
+    "name": "Implémenter un modèle de données",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion des données",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=104&noheader=0&clang=fr"
+  },
+  "105": {
+    "name": "Traiter une base de données avec SQL",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Gestion des données",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=105&noheader=0&clang=fr"
+  },
+  "108": {
+    "name": "Assembler un appareil électronique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=108&noheader=0&clang=fr"
+  },
+  "112": {
+    "name": "Assurer une assistance en première instance",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=112&noheader=0&clang=fr"
+  },
+  "114": {
+    "name": "Mettre en œuvre des systèmes de codification, de compression et d’encryptage.",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion de la sécurité",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=114&noheader=0&clang=fr"
+  },
+  "115": {
+    "name": "Mettre en oeuvre des équipements multimédias",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=115&noheader=0&clang=fr"
+  },
+  "117": {
+    "name": "Mettre en place l’infrastructure informatique d’une petite entreprise",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion des réseaux",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=117&noheader=0&clang=fr"
+  },
+  "118": {
+    "name": "Analyser et implémenter structurellement",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=118&noheader=0&clang=fr"
+  },
+  "120": {
+    "name": "Implémenter les interfaces graphiques d’applications",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=120&noheader=0&clang=fr"
+  },
+  "121": {
+    "name": "Elaborer des tâches de pilotage.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie de logiciels techniques",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=121&noheader=0&clang=fr"
+  },
+  "122": {
+    "name": "Automatiser des procédures à l’aide de scripts.",
+    "type": "Module scolaire à choix",
+    "category": "Gestion des prestations",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=122&noheader=0&clang=fr"
+  },
+  "123": {
+    "name": "Activer les services d´un serveur",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion des systèmes",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=123&noheader=0&clang=fr"
+  },
+  "124": {
+    "name": "Etendre ou modifier une place de travail avec ordinateur.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=124&noheader=0&clang=fr"
+  },
+  "125": {
+    "name": "Mettre en service des périphériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=125&noheader=0&clang=fr"
+  },
+  "126": {
+    "name": "Installer des périphériques en réseau.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=126&noheader=0&clang=fr"
+  },
+  "127": {
+    "name": "Assurer l’exploitation de serveurs",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=127&noheader=0&clang=fr"
+  },
+  "129": {
+    "name": "Mettre en service des composants réseaux.",
+    "type": "Module scolaire à choix",
+    "category": "Gestion des réseaux",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=129&noheader=0&clang=fr"
+  },
+  "130": {
+    "name": "Contrôler un réseau et mesurer ses flux.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=130&noheader=0&clang=fr"
+  },
+  "131": {
+    "name": "Assumer les tâches d’un projet informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=131&noheader=0&clang=fr"
+  },
+  "132": {
+    "name": "Effectuer un appel d’offres et comparer les résultats",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=132&noheader=0&clang=fr"
+  },
+  "133": {
+    "name": "Réaliser des applications Web en Session-Handling",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=133&noheader=0&clang=fr"
+  },
+  "135": {
+    "name": "Développer des applications partagées procédurales",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=135&noheader=0&clang=fr"
+  },
+  "137": {
+    "name": "Prendre en charge l'assistance en deuxième et troisième instance",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=137&noheader=0&clang=fr"
+  },
+  "138": {
+    "name": "Planifier et installer des places de travail informatique.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=138&noheader=0&clang=fr"
+  },
+  "139": {
+    "name": "Préparer des supports de cours et former les utilisateurs.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=139&noheader=0&clang=fr"
+  },
+  "140": {
+    "name": "Administrer et exploiter des bases de données",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=140&noheader=0&clang=fr"
+  },
+  "141": {
+    "name": "Installer des systèmes de bases de données",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=141&noheader=0&clang=fr"
+  },
+  "143": {
+    "name": "Implanter un système de sauvegarde et de restauration",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=143&noheader=0&clang=fr"
+  },
+  "145": {
+    "name": "Exploiter et étendre un réseau.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=145&noheader=0&clang=fr"
+  },
+  "146": {
+    "name": "Relier une entreprise à Internet.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=146&noheader=0&clang=fr"
+  },
+  "149": {
+    "name": "Elaborer des projets d’acquisition d’équipements et de logiciels pour PC.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=149&noheader=0&clang=fr"
+  },
+  "150": {
+    "name": "Adapter une application de commerce électronique.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=150&noheader=0&clang=fr"
+  },
+  "151": {
+    "name": "Intégrer des bases de données dans des applications Web",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=151&noheader=0&clang=fr"
+  },
+  "152": {
+    "name": "Intégrer des contenus multimédias dans des applications Web.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=152&noheader=0&clang=fr"
+  },
+  "153": {
+    "name": "Développer les modèles de données",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Gestion des données",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=153&noheader=0&clang=fr"
+  },
+  "154": {
+    "name": "Organiser la mise en exploitation d’applications.",
+    "type": "Module CIE à choix ",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=154&noheader=0&clang=fr"
+  },
+  "155": {
+    "name": "Développer des procédures en temps réel.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie de logiciels techniques",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=155&noheader=0&clang=fr"
+  },
+  "156": {
+    "name": "Développer de nouveaux services, planifier leur introduction.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=156&noheader=0&clang=fr"
+  },
+  "157": {
+    "name": "IT-System-Einführung planen und durchführen",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=157&noheader=0&clang=fr"
+  },
+  "158": {
+    "name": "Planifier et exécuter la migration de logiciels.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=158&noheader=0&clang=fr"
+  },
+  "159": {
+    "name": "Configurer et synchroniser le service d’annuaire.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=159&noheader=0&clang=fr"
+  },
+  "161": {
+    "name": "Exploiter des services de communication fixe",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=161&noheader=0&clang=fr"
+  },
+  "166": {
+    "name": "Assurer la sécurité de base des TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=166&noheader=0&clang=fr"
+  },
+  "167": {
+    "name": "Evaluer des outils informatiques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=167&noheader=0&clang=fr"
+  },
+  "168": {
+    "name": "Assister des processus métier au moyen d’outils TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=168&noheader=0&clang=fr"
+  },
+  "171": {
+    "name": "Concevoir, réaliser et implanter des sites WEB",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=171&noheader=0&clang=fr"
+  },
+  "173": {
+    "name": "Protéger et sécuriser les sites et les applications WEB",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=173&noheader=0&clang=fr"
+  },
+  "176": {
+    "name": "Assurer la sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=176&noheader=0&clang=fr"
+  },
+  "177": {
+    "name": "Gérer les incidents dans un service d’assistance informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=177&noheader=0&clang=fr"
+  },
+  "178": {
+    "name": "Implanter les procédures d’exploitation",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=178&noheader=0&clang=fr"
+  },
+  "181": {
+    "name": "Elaborer des stratégies d’archivage, de sauvegarde et de restauration",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=181&noheader=0&clang=fr"
+  },
+  "182": {
+    "name": "Implémenter la sécurité système.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=182&noheader=0&clang=fr"
+  },
+  "183": {
+    "name": "Implémenter la sécurité d’une application.",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=183&noheader=0&clang=fr"
+  },
+  "184": {
+    "name": "Implémenter la sécurité réseau.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=184&noheader=0&clang=fr"
+  },
+  "186": {
+    "name": "Prendre en charge l’exploitation d’applications",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=186&noheader=0&clang=fr"
+  },
+  "189": {
+    "name": "Concevoir et implanter un système d’assurance qualité",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=189&noheader=0&clang=fr"
+  },
+  "192": {
+    "name": "Délimiter des systèmes et spécifier des exigences",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=192&noheader=0&clang=fr"
+  },
+  "193": {
+    "name": "Evaluer des technologies de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=193&noheader=0&clang=fr"
+  },
+  "194": {
+    "name": "Concevoir un site Internet en fonction de la mercatique et de l’efficacité",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=194&noheader=0&clang=fr"
+  },
+  "197": {
+    "name": "Développer et implanter un concept de gestion des versions et des configurations",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=197&noheader=0&clang=fr"
+  },
+  "200": {
+    "name": "Organiser et implanter un secteur informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=200&noheader=0&clang=fr"
+  },
+  "202": {
+    "name": "Elaborer une architecture logicielle",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=202&noheader=0&clang=fr"
+  },
+  "204": {
+    "name": "Définir une architecture de systèmes",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=204&noheader=0&clang=fr"
+  },
+  "205": {
+    "name": "Définir une architecture de communication",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=205&noheader=0&clang=fr"
+  },
+  "206": {
+    "name": "Définir et négocier les niveaux de prestations",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=206&noheader=0&clang=fr"
+  },
+  "207": {
+    "name": "Analyser et budgétiser des prestations TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=207&noheader=0&clang=fr"
+  },
+  "209": {
+    "name": "Diriger et gérer un secteur informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=209&noheader=0&clang=fr"
+  },
+  "211": {
+    "name": "Instituer une politique de sécurité",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=211&noheader=0&clang=fr"
+  },
+  "212": {
+    "name": "Savoir apprendre et travailler",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=212&noheader=0&clang=fr"
+  },
+  "213": {
+    "name": "Développer l’esprit d’équipe",
+    "type": "Module scolaire à choix",
+    "category": "Gestion des projets",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=213&noheader=0&clang=fr"
+  },
+  "214": {
+    "name": "Instruire les utilisateurs sur le comportement avec des moyens informatiques.",
+    "type": "Module scolaire à choix",
+    "category": "Gestion des prestations",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=214&noheader=0&clang=fr"
+  },
+  "215": {
+    "name": "Mettre en œuvre une stratégie informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=215&noheader=0&clang=fr"
+  },
+  "223": {
+    "name": "Réaliser des applications multi-utilisateurs orientées objets.",
+    "type": "Module CIE à choix ",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=223&noheader=0&clang=fr"
+  },
+  "225": {
+    "name": "Développer et implémenter structurellement",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=225&noheader=0&clang=fr"
+  },
+  "226": {
+    "name": "Implémenter orienté objets",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226&noheader=0&clang=fr"
+  },
+  "226A": {
+    "name": "Implémenter (sans hérédité) sur la base des classes",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226&noheader=0&clang=fr"
+  },
+  "226B": {
+    "name": "Implémenter orienté objets (avec hérédité)",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226&noheader=0&clang=fr"
+  },
+  "227": {
+    "name": "Effectuer des tests de systèmes et d’acceptation",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=227&noheader=0&clang=fr"
+  },
+  "228": {
+    "name": "S’assurer de la satisfaction de la clientèle",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=228&noheader=0&clang=fr"
+  },
+  "234": {
+    "name": "Gérer et assurer les risques d’exploitation de systèmes informatiques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=234&noheader=0&clang=fr"
+  },
+  "239": {
+    "name": "Mettre en service un serveur Web.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=239&noheader=0&clang=fr"
+  },
+  "242": {
+    "name": "Réaliser des applications pour microprocesseurs.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie de logiciels techniques",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=242&noheader=0&clang=fr"
+  },
+  "243": {
+    "name": "Utiliser des bus.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=243&noheader=0&clang=fr"
+  },
+  "246": {
+    "name": "Assurer et gérer les risques d’un secteur informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=246&noheader=0&clang=fr"
+  },
+  "249": {
+    "name": "Planifier et superviser des projets",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=249&noheader=0&clang=fr"
+  },
+  "250": {
+    "name": "Gérer un portefeuille de projets informatiques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=250&noheader=0&clang=fr"
+  },
+  "253": {
+    "name": "Visualiser les signaux de capteurs",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie de logiciels techniques",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=253&noheader=0&clang=fr"
+  },
+  "254": {
+    "name": "Décrire des processus métier",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie de procédures",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=254&noheader=0&clang=fr"
+  },
+  "256": {
+    "name": "Réaliser la partie cliente des applications Web.",
+    "type": "256",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=256&noheader=0&clang=fr"
+  },
+  "257": {
+    "name": "Utiliser une documentation technique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=257&noheader=0&clang=fr"
+  },
+  "258": {
+    "name": "Etablir un système de facturation de prestations",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=258&noheader=0&clang=fr"
+  },
+  "260": {
+    "name": "Mettre en pratique des outils bureautiques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=260&noheader=0&clang=fr"
+  },
+  "261": {
+    "name": "Garantir la fonction des terminaux utilisateurs dans la structure réseau",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=261&noheader=0&clang=fr"
+  },
+  "263": {
+    "name": "Garantir la sécurité des terminaux ICT utilisateurs",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=263&noheader=0&clang=fr"
+  },
+  "264": {
+    "name": "Titre Préparer des productions de médias numériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=264&noheader=0&clang=fr"
+  },
+  "265": {
+    "name": "Produire des photographies numériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=265&noheader=0&clang=fr"
+  },
+  "266": {
+    "name": "Produire des animations numériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=266&noheader=0&clang=fr"
+  },
+  "267": {
+    "name": "Produire des enregistrements audio numériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=267&noheader=0&clang=fr"
+  },
+  "268": {
+    "name": "Produire des films numériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=268&noheader=0&clang=fr"
+  },
+  "269": {
+    "name": "Réaliser un projet de photographies",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=269&noheader=0&clang=fr"
+  },
+  "270": {
+    "name": "Déterminer et appliquer les couleurs et typographies",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=270&noheader=0&clang=fr"
+  },
+  "271": {
+    "name": "Elaborer des données vectorielles et traiter des images",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=271&noheader=0&clang=fr"
+  },
+  "272": {
+    "name": "Développer et mettre en œuvre des produits d’impression",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=272&noheader=0&clang=fr"
+  },
+  "273": {
+    "name": "Appliquer des maquettes",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=273&noheader=0&clang=fr"
+  },
+  "274": {
+    "name": "Préparer et distribuer des données d’impression",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=274&noheader=0&clang=fr"
+  },
+  "275": {
+    "name": "Elaborer et présenter des projets de maquettes",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=275&noheader=0&clang=fr"
+  },
+  "276": {
+    "name": "Etablir des médias pour une action de marketing",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=276&noheader=0&clang=fr"
+  },
+  "278": {
+    "name": "Analyser le marché et en déduire les objectifs",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=278&noheader=0&clang=fr"
+  },
+  "279": {
+    "name": "Développer et présenter un concept de marketing",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=279&noheader=0&clang=fr"
+  },
+  "280": {
+    "name": "Concevoir des produits analogiques et numériques de marketing",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=280&noheader=0&clang=fr"
+  },
+  "281": {
+    "name": "Constituer et administrer des canaux de médias sociaux",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=281&noheader=0&clang=fr"
+  },
+  "282": {
+    "name": "Evaluer les chiffres clés du marketing et préparer les contenus pour la communication opérationnelle",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=282&noheader=0&clang=fr"
+  },
+  "283": {
+    "name": "Etablir et vérifier des offres conformément au droit",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=283&noheader=0&clang=fr"
+  },
+  "284": {
+    "name": "Calculer l’apport de prestations et dérouler le processus de payement",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=284&noheader=0&clang=fr"
+  },
+  "285": {
+    "name": "Analyser la clôture annuelle et exécuter les calculs de rentabilité",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=285&noheader=0&clang=fr"
+  },
+  "286": {
+    "name": "Installer et utiliser ses propres instruments de travail ICT",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=286&noheader=0&clang=fr"
+  },
+  "287": {
+    "name": "Créer des sites web avec le CSS",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=287&noheader=0&clang=fr"
+  },
+  "288": {
+    "name": "Utilisation des techniques de programmation dans le Frontend Web",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=288&noheader=0&clang=fr"
+  },
+  "289": {
+    "name": "Mettre en œuvre et exploiter un CMS",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=289&noheader=0&clang=fr"
+  },
+  "290": {
+    "name": "Interroger et modifier des bases de données",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=290&noheader=0&clang=fr"
+  },
+  "300": {
+    "name": "Intégrer des services réseau mutli-plateformes.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=300&noheader=0&clang=fr"
+  },
+  "301": {
+    "name": "Appliquer les outils bureautiques",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie de procédures",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=301&noheader=0&clang=fr"
+  },
+  "302": {
+    "name": "Utiliser les fonctions avancées d’Office",
+    "type": "Module CIE à choix",
+    "category": "Ingénierie de procédures",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=302&noheader=0&clang=fr"
+  },
+  "303": {
+    "name": "Programmer dans un cadre prescrit (basé objets)",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=303&noheader=0&clang=fr"
+  },
+  "304": {
+    "name": "Installer et configurer un ordinateur mono-poste",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion du matériel",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=304&noheader=0&clang=fr"
+  },
+  "305": {
+    "name": "Installer, configurer et administrer un système d’exploitation",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion des systèmes",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=305&noheader=0&clang=fr"
+  },
+  "306": {
+    "name": "Réaliser un petit projet informatique.",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Gestion des projets",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=306&noheader=0&clang=fr"
+  },
+  "307": {
+    "name": "Réaliser des pages Web interactives",
+    "type": "Module CIE à choix",
+    "category": "Ingénierie WEB",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=307&noheader=0&clang=fr"
+  },
+  "314": {
+    "name": "Calculer la rentabilité d’investissements TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=314&noheader=0&clang=fr"
+  },
+  "316": {
+    "name": "Mesurer et interpréter des tensions, des courants",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=316&noheader=0&clang=fr"
+  },
+  "318": {
+    "name": "Analyser et programmer orienté objet avec des composants.",
+    "type": "Module CIE à choix",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=318&noheader=0&clang=fr"
+  },
+  "326": {
+    "name": "Développer et implémenter orienté objets.",
+    "type": "2e à 4e année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=326&noheader=0&clang=fr"
+  },
+  "330": {
+    "name": "Mettre en service un système de téléphonie IP.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=330&noheader=0&clang=fr"
+  },
+  "335": {
+    "name": "Réaliser une application pour mobile.",
+    "type": "Module CIE à choix",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=335&noheader=0&clang=fr"
+  },
+  "340": {
+    "name": "Virtualiser une infrastructure informatique.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=340&noheader=0&clang=fr"
+  },
+  "403": {
+    "name": "Implémenter de manière procédurale des déroulements de programme",
+    "type": "1ère année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=403&noheader=0&clang=fr"
+  },
+  "404": {
+    "name": "Programmer orienté objets selon directives",
+    "type": "1ère année d'apprentissage",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=404&noheader=0&clang=fr"
+  },
+  "411": {
+    "name": "Développer et appliquer des structures de données et algorithmes.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=411&noheader=0&clang=fr"
+  },
+  "414": {
+    "name": "Organiser et gérer des contenus multimédia indépendamment du support",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=414&noheader=0&clang=fr"
+  },
+  "415": {
+    "name": "Adapter les contenus multimédia aux canaux de communication",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=415&noheader=0&clang=fr"
+  },
+  "416": {
+    "name": "Appliquer le droit des biens immatériels dans le cadre de la production et de la publication",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=416&noheader=0&clang=fr"
+  },
+  "417": {
+    "name": "Adapter le design des CI/CD au média utilisé",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=417&noheader=0&clang=fr"
+  },
+  "418": {
+    "name": "Adapter des messages au média et au public cible",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=418&noheader=0&clang=fr"
+  },
+  "419": {
+    "name": "Evaluer des concepts de solutions et des technologies nouvelles",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=419&noheader=0&clang=fr"
+  },
+  "422": {
+    "name": "Identifier les potentiels d’optimisation et réaliser les solutions",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=422&noheader=0&clang=fr"
+  },
+  "423": {
+    "name": "Appliquer les CI/CD aux domaines d’applications élargis",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=423&noheader=0&clang=fr"
+  },
+  "424": {
+    "name": "Elaborer et déployer des activités marketing en fonction du média utilisé",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=424&noheader=0&clang=fr"
+  },
+  "426": {
+    "name": "Développer un logiciel avec des méthodes agiles.",
+    "type": "Module scolaire à choix",
+    "category": "Ingénierie d'applications",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=426&noheader=0&clang=fr"
+  },
+  "431": {
+    "name": "Exécuter des mandats de manière autonome dans un environnement informatique.",
+    "type": "1ère année d'apprentissage",
+    "category": "Gestion des projets",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=431&noheader=0&clang=fr"
+  },
+  "437": {
+    "name": "Travailler dans le support.",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=437&noheader=0&clang=fr"
+  },
+  "441": {
+    "name": "Concevoir et réaliser des solutions de virtualisation",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=441&noheader=0&clang=fr"
+  },
+  "451": {
+    "name": "Tester une application",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=451&noheader=0&clang=fr"
+  },
+  "452": {
+    "name": "Implémenter la gestion des versions et des mises à jour",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=452&noheader=0&clang=fr"
+  },
+  "454": {
+    "name": "Organiser un centre de services",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=454&noheader=0&clang=fr"
+  },
+  "459": {
+    "name": "Procéder à une revue du code",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=459&noheader=0&clang=fr"
+  },
+  "461": {
+    "name": "Intégrer des services de communication mobile",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=461&noheader=0&clang=fr"
+  },
+  "471": {
+    "name": "Optimiser des réseaux",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=471&noheader=0&clang=fr"
+  },
+  "475": {
+    "name": "Développer une analyse pour une application",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=475&noheader=0&clang=fr"
+  },
+  "476": {
+    "name": "Développer le design logique d’une application",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=476&noheader=0&clang=fr"
+  },
+  "477": {
+    "name": "Implémenter le design physique d’une application",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=477&noheader=0&clang=fr"
+  },
+  "478": {
+    "name": "Mettre à disposition un environnement de développement",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=478&noheader=0&clang=fr"
+  },
+  "479": {
+    "name": "Réaliser un modèle de données",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=479&noheader=0&clang=fr"
+  },
+  "482": {
+    "name": "Tester et superviser le fonctionnement de composants d’infrastructure TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=482&noheader=0&clang=fr"
+  },
+  "486": {
+    "name": "Implémenter des mesures de sécurité de réseau et de système",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=486&noheader=0&clang=fr"
+  },
+  "492": {
+    "name": "Promouvoir l’acceptation du changement",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=492&noheader=0&clang=fr"
+  },
+  "493": {
+    "name": "Implémenter des logiciels standards en fonction des spécificités de l’entreprise",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=493&noheader=0&clang=fr"
+  },
+  "494": {
+    "name": "Diriger une équipe de projet",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=494&noheader=0&clang=fr"
+  },
+  "495": {
+    "name": "Evaluer l’utilité et l’intégrabilité de technologies TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=495&noheader=0&clang=fr"
+  },
+  "496": {
+    "name": "Analyser l’environnement d’un projet TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=496&noheader=0&clang=fr"
+  },
+  "497": {
+    "name": "Dérouler des projets TIC en conformité avec le droit",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=497&noheader=0&clang=fr"
+  },
+  "498": {
+    "name": "Convenir de services TIC et les superviser",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=498&noheader=0&clang=fr"
+  },
+  "601": {
+    "name": "Développer une stratégie TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=601&noheader=0&clang=fr"
+  },
+  "603": {
+    "name": "Fixer la stratégie des ressources",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=603&noheader=0&clang=fr"
+  },
+  "611": {
+    "name": "Développer un processus de portfolio TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=611&noheader=0&clang=fr"
+  },
+  "612": {
+    "name": "Evaluer un portfolio TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=612&noheader=0&clang=fr"
+  },
+  "613": {
+    "name": "Définir et développer un contrôle de portfolio TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=613&noheader=0&clang=fr"
+  },
+  "621": {
+    "name": "Concevoir des processus TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=621&noheader=0&clang=fr"
+  },
+  "622": {
+    "name": "Déterminer l’organisation de la construction et du processus TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=622&noheader=0&clang=fr"
+  },
+  "623": {
+    "name": "Conseiller l’engagement TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=623&noheader=0&clang=fr"
+  },
+  "624": {
+    "name": "Mettre en œuvre des modifications",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=624&noheader=0&clang=fr"
+  },
+  "641": {
+    "name": "Développer l’architecture TIC d’entreprise",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=641&noheader=0&clang=fr"
+  },
+  "642": {
+    "name": "Administrer le portfolio des applications TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=642&noheader=0&clang=fr"
+  },
+  "643": {
+    "name": "Définir un processus de développement TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=643&noheader=0&clang=fr"
+  },
+  "651": {
+    "name": "Etablir et surveiller la planification financière",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=651&noheader=0&clang=fr"
+  },
+  "652": {
+    "name": "Planifier les ressources en personnel",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=652&noheader=0&clang=fr"
+  },
+  "653": {
+    "name": "Définir des activités de marketing",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=653&noheader=0&clang=fr"
+  },
+  "654": {
+    "name": "Appliquer les aspects du droit dans les projets TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=654&noheader=0&clang=fr"
+  },
+  "661": {
+    "name": "Exécuter des analyses de sécurité TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=661&noheader=0&clang=fr"
+  },
+  "662": {
+    "name": "Assurer la sécurité TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=662&noheader=0&clang=fr"
+  },
+  "663": {
+    "name": "Assurer des processus systèmes TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=663&noheader=0&clang=fr"
+  },
+  "664": {
+    "name": "Acquérir et surveiller des prestations de service TIC",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=664&noheader=0&clang=fr"
+  },
+  "665": {
+    "name": "Développer une stratégie de sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=665&noheader=0&clang=fr"
+  },
+  "666": {
+    "name": "Définir et ancrer une gouvernance relative à la stratégie de sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=666&noheader=0&clang=fr"
+  },
+  "667": {
+    "name": "Mettre en place un système de gestion de la sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=667&noheader=0&clang=fr"
+  },
+  "668": {
+    "name": "Exploiter et améliorer un système de gestion de la sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=668&noheader=0&clang=fr"
+  },
+  "669": {
+    "name": "Assurer le traitement des incidents de sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=669&noheader=0&clang=fr"
+  },
+  "670": {
+    "name": "Garantir la sécurité de l’information dans le Business Continuity Management",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=670&noheader=0&clang=fr"
+  },
+  "671": {
+    "name": "Garantir la conformité de la sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=671&noheader=0&clang=fr"
+  },
+  "672": {
+    "name": "Evaluer et introduire des solutions de sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=672&noheader=0&clang=fr"
+  },
+  "673": {
+    "name": "Créer et favoriser une prise de conscience quant à la sécurité de l’information",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=673&noheader=0&clang=fr"
+  },
+  "674": {
+    "name": "Diriger et soutenir une équipe",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=674&noheader=0&clang=fr"
+  },
+  "675": {
+    "name": "Examiner et évaluer la sécurité des réseaux",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=675&noheader=0&clang=fr"
+  },
+  "676": {
+    "name": "Examiner et évaluer la sécurité des applications et des services de serveurs",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=676&noheader=0&clang=fr"
+  },
+  "677": {
+    "name": "Examiner et évaluer la sécurité des solutions de stockage",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=677&noheader=0&clang=fr"
+  },
+  "678": {
+    "name": "Examiner et évaluer la sécurité des terminaux et périphériques",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=678&noheader=0&clang=fr"
+  },
+  "679": {
+    "name": "Collecter des informations sur les menaces et les traiter",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=679&noheader=0&clang=fr"
+  },
+  "680": {
+    "name": "Contrôler la sécurité de l’infrastructure informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=680&noheader=0&clang=fr"
+  },
+  "681": {
+    "name": "Détecter et contrer les attaques ciblant l’infrastructure informatique",
+    "type": "Non développement d'applications 2014",
+    "category": "Non développement d'applications 2014",
+    "link" : "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=681&noheader=0&clang=fr"
+  }
+}
