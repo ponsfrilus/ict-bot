@@ -1,0 +1,28 @@
+{
+  "name": "ict-bot",
+  "version": "0.0.1",
+  "description": "An ICT telegram bot",
+  "main": "index.js",
+  "dependencies": {
+    "telebot": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaphireVert/ict-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "ICT",
+    "bot"
+  ],
+  "author": "SaphireVert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaphireVert/ict-bot/issues"
+  },
+  "homepage": "https://github.com/SaphireVert/ict-bot#readme"
+}
