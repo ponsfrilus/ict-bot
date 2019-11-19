@@ -12,7 +12,7 @@ bot.on('text', (msg) => {
 // Match /module followed by 3 digits only
 bot.on(/^\/module (\d{3})$/, (msg, props) => {
     const moduleID = props.match[1];
-    var text = '*' + modules[moduleID].name + '*' + ' (' + moduleID + ')' + '\n\n' +
+    var text = '*' + modules[moduleID].name + '* (' + moduleID + ')\n\n' +
                '• Type : ' + modules[moduleID].type + '\n' +
                '• Catégorie : ' + modules[moduleID].category + '\n\n' +
                'Pour plus d\'infos, cliquez sur [ce lien](' + modules[moduleID].link + ')';
