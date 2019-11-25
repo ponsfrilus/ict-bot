@@ -22,13 +22,13 @@ Contactez [@ICTmodulesBot](https://t.me/ICTmodulesBot).
 
 ## Liste des commandes
 
-| commande          | description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `/start`          | Commande initiale du bot, affiche l'aide                 |
-| `/help`, `/h`     | Affiche l'aide (description des commandes)               |
-| `/module <ID>`    | Permet d'obtenir la description d'un module par son ID   |
-| `/list`, `/all`   | Affiche la liste de tous les modules                     |
-| `/info`           | Donne des informations générales sur le bot              |
+| commande          | description                                                                   |
+| ----------------- | ----------------------------------------------------------------------------- |
+| `/start`          | Commande initiale du bot, affiche l'aide                                      |
+| `/help`, `/h`     | Affiche l'aide (description des commandes)                                    |
+| `/module <ID>`    | Affiche les informations générales relatives au module en fonction de son ID  |
+| `/list`, `/all`   | Affiche la liste de tous les modules                                          |
+| `/info`           | Donne des informations générales sur le bot                                   |
 
 
 # Liens

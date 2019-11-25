@@ -41,4 +41,22 @@ bot.on(['/list', '/all', '/listall'], (msg) => {
     return bot.sendMessage(msg.from.id, messageFinal, {parseMode: 'Markdown'});
 });
 
+bot.on('/info', (msg) => {
+    var messageInfos = 'Ce bot Telegram ' +
+        'permet d\'obtenir les informations sur les modules disponibles pour les ' +
+        'apprentis CFC en voie [développement d\'applications](https://www.ict-berufsbildung.ch/' +
+        'fr/formation-professionnelle/informaticien-ne-cfc-developpement-dapplications/),' +
+        ' selon l\'[ordonnance 2014](https://www.ict-berufsbildung.ch/fileadmin/user_upload/' +
+        '02_Francais/01_formation_initiale/PDF/Bildungsverordnung_Informatiker_in_EFZ-100f-20131017TRR.pdf)' +
+        ' du [SEFRI](https://www.sbfi.admin.ch/sbfi/fr/home.html).\n\n' +
+        '*Liens* : ' +
+        ' \n• [Informaticien/-ne CFC Développement d\'applications](https://www.ict-berufsbildung.ch/fr/formation-professionnelle/informaticien-ne-cfc-developpement-dapplications/)' +
+        ' \n• [ICT Competence Framework](https://cf.ict-berufsbildung.ch/)' +
+        ' \n• [Recherche de modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20100)' +
+        ' \n• [Visualisation des modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20103&nvorlageid=15&nabschlussid=)' +
+        ' \n• [Visualisation des modules (PDF)](https://cf.ict-berufsbildung.ch/modules.php?Mbk&a=20105&nvorlageid=15)' +
+        ' \n• [Plan d’études pour les écoles professionnelles](https://www.ict-berufsbildung.ch/fileadmin/user_upload/PlanEtudesEcole_INFO_V1.0_du_1.4.2014.pdf)'
+    return bot.sendMessage(msg.from.id, messageInfos, {parseMode: 'Markdown'});
+});
+
 bot.start();
