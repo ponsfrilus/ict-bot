@@ -18,9 +18,9 @@ bot.on('text', (msg) => {
     //msg.reply.text(msg.text)
 });
 
-// Match /module followed by 3 digits only
-bot.on(/^\/module (\d{3})$/, (msg, props) => {
-    const moduleID = props.match[1];
+// Match /module followed by 3 digits only /^\/module (\d{3})$/
+bot.on(/^\/module(.+)$/, (msg, props) => {
+    const moduleID = props.match[1].trim();
     if (typeof(modules[moduleID]) !== 'undefined') {
         var text = '*' + modules[moduleID].name + '* (' + moduleID + ')\n\n' +
         '• Type : ' + modules[moduleID].type + '\n' +
