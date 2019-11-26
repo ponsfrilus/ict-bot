@@ -29,7 +29,7 @@ bot.on(/^\/module (\d{3})$/, (msg, props) => {
     } else {
         var text = 'Ce module n\'existe pas...';
     }
-    return bot.sendMessage(msg.from.id, text, {parseMode: 'Markdown'});
+    return bot.sendMessage(msg.chat.id, text, {parseMode: 'Markdown'});
 });
 
 bot.on(['/start', '/help', '/h'], (msg) => {
@@ -37,7 +37,7 @@ bot.on(['/start', '/help', '/h'], (msg) => {
                       ' • /help | /h : affiche cette liste\n' +
                       ' • /modules <numModule> : affiche les informations générales du module\n' +
                       ' • /list | /all : affiche la liste de tous les modules'
-    return bot.sendMessage(msg.from.id, messageHelp, {parseMode: 'Markdown'});
+    return bot.sendMessage(msg.chat.id, messageHelp, {parseMode: 'Markdown'});
 });
 
 bot.on(['/list', '/all', '/listall'], (msg) => {
@@ -47,7 +47,7 @@ bot.on(['/list', '/all', '/listall'], (msg) => {
             messageFinal += '• `' + el + '` - ' + modules[el].name + ' [📄](' + modules[el].link + ')' + '\n';
         }
     });
-    return bot.sendMessage(msg.from.id, messageFinal, {parseMode: 'Markdown'});
+    return bot.sendMessage(msg.chat.id, messageFinal, {parseMode: 'Markdown'});
 });
 
 bot.on('/info', (msg) => {
@@ -65,7 +65,8 @@ bot.on('/info', (msg) => {
         ' \n• [Visualisation des modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20103&nvorlageid=15&nabschlussid=)' +
         ' \n• [Visualisation des modules (PDF)](https://cf.ict-berufsbildung.ch/modules.php?Mbk&a=20105&nvorlageid=15)' +
         ' \n• [Plan d’études pour les écoles professionnelles](https://www.ict-berufsbildung.ch/fileadmin/user_upload/PlanEtudesEcole_INFO_V1.0_du_1.4.2014.pdf)'
-    return bot.sendMessage(msg.from.id, messageInfos, {parseMode: 'Markdown'});
+        console.debug(msg);
+    return bot.sendMessage(msg.chat.id, messageInfos, {parseMode: 'Markdown'});
 });
 
 bot.start();
