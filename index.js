@@ -1,8 +1,17 @@
+const fs = require('fs')
 const TeleBot = require('telebot');
-const secret = require('./secret.json');
+var BoToken = null;
+try {
+  var secret = require("./secret.json");
+  BoToken = secret.BOT_TOKEN;
+} catch (e) {
+  console.log("Pas de secrets trouvé, on utilise process.env.BOT_TOKEN");
+  //console.log(e);
+  BoToken = process.env.BOT_TOKEN;
+}
 const modules = require('./data.json');
 
-const bot = new TeleBot(secret.BOT_TOKEN);
+const bot = new TeleBot(BoToken);
 
 // Match any text
 bot.on('text', (msg) => {
