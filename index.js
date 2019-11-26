@@ -13,9 +13,11 @@ const modules = require('./data.json');
 
 const bot = new TeleBot(BoToken);
 
-// Match any text
-bot.on('text', (msg) => {
-    //msg.reply.text(msg.text)
+// In case someone edit a `/module 000` message, warn that it won't work...
+bot.on('edit', (msg) => {
+    if ('/module' === msg.text.match(/^(\/module)(.+)$/)[1]) {
+        return msg.reply.text('⚠ Le bot ne comprend pas les messages édités, merci de retapper la commande.', { asReply: true });
+    }
 });
 
 // Match /module followed by 3 digits only /^\/module (\d{3})$/
