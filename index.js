@@ -34,9 +34,11 @@ bot.on(/^\/module (\d{3})$/, (msg, props) => {
 
 bot.on(['/start', '/help', '/h'], (msg) => {
     var messageHelp = '*Voici quelques commandes que vous pouvez utiliser* :\n' +
-                      ' • /help | /h : affiche cette liste\n' +
-                      ' • /modules <numModule> : affiche les informations générales du module\n' +
-                      ' • /list | /all : affiche la liste de tous les modules'
+                      ' • /start - Commande principale du bot, affiche l\'aide\n' +
+                      ' • /help | /h - Affiche cette liste\n' +
+                      ' • /module <numModule> - Affiche les informations générales relatives au module\n' +
+                      ' • /list | /all | /modules - Affiche la liste de tous les modules\n' +
+                      ' • /info - Donne des informations générales sur le bot'
     return bot.sendMessage(msg.chat.id, messageHelp, {parseMode: 'Markdown'});
 });
 
