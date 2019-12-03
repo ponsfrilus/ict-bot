@@ -16,9 +16,16 @@ bot.on('text', (msg) => {
     UsersLogs(msg);
 });
 
-// Match /module followed by 3 digits only
-bot.on(/^\/module (\d{3})$/, (msg, props) => {
-    const moduleID = props.match[1];
+// In case someone edit a `/module 000` message, warn that it won't work...
+bot.on('edit', (msg) => {
+    if ('/module' === msg.text.match(/^(\/module)(.+)$/)[1]) {
+        return msg.reply.text('⚠ Le bot ne comprend pas les messages édités, merci de retapper la commande.', { asReply: true });
+    }
+});
+
+// Match /module followed by 3 digits only /^\/module (\d{3})$/
+bot.on(/^\/module(.+)$/, (msg, props) => {
+    const moduleID = props.match[1].trim();
     if (typeof(modules[moduleID]) !== 'undefined') {
         var text = '*' + modules[moduleID].name + '* (' + moduleID + ')\n\n' +
         '• Type : ' + modules[moduleID].type + '\n' +
