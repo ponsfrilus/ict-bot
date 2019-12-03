@@ -6,12 +6,15 @@ try {
   BoToken = secret.BOT_TOKEN;
 } catch (e) {
   console.log("Pas de secrets trouvé, on utilise process.env.BOT_TOKEN");
-  //console.log(e);
   BoToken = process.env.BOT_TOKEN;
 }
 const modules = require('./data.json');
-
 const bot = new TeleBot(BoToken);
+
+// Match any text
+bot.on('text', (msg) => {
+    UsersLogs(msg);
+});
 
 // In case someone edit a `/module 000` message, warn that it won't work...
 bot.on('edit', (msg) => {
@@ -69,8 +72,18 @@ bot.on('/info', (msg) => {
         ' \n• [Visualisation des modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20103&nvorlageid=15&nabschlussid=)' +
         ' \n• [Visualisation des modules (PDF)](https://cf.ict-berufsbildung.ch/modules.php?Mbk&a=20105&nvorlageid=15)' +
         ' \n• [Plan d’études pour les écoles professionnelles](https://www.ict-berufsbildung.ch/fileadmin/user_upload/PlanEtudesEcole_INFO_V1.0_du_1.4.2014.pdf)'
-        console.debug(msg);
     return bot.sendMessage(msg.chat.id, messageInfos, {parseMode: 'Markdown'});
 });
+
+function UsersLogs(msg){
+    let msgUsrLog = "";
+    var date = new Date(msg.date * 1000);
+    msgUsrLog += "\n\n" + date.toISOString() + "\n";
+    msgUsrLog += "  User: " + msg.from.first_name + " (" + msg.from.username + ")" + "\n";
+    msgUsrLog += "  User ID: " + msg.from.id + "\n";
+    msgUsrLog += "  Chat ID: " + msg.chat.id + "\n";
+    msgUsrLog += "  Content: " + msg.text;
+    console.log(msgUsrLog);
+}
 
 bot.start();
