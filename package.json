@@ -1,6 +1,6 @@
 {
   "name": "ict-bot",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "An ICT telegram bot",
   "main": "index.js",
   "dependencies": {
