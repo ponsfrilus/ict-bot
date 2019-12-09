@@ -11,6 +11,8 @@ try {
 const modules = require('./data.json');
 const bot = new TeleBot(BoToken);
 
+const package = require('./package.json');
+
 // Match any text
 bot.on('text', (msg) => {
     UsersLogs(msg);
@@ -71,7 +73,8 @@ bot.on('/info', (msg) => {
         ' \n• [Recherche de modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20100)' +
         ' \n• [Visualisation des modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20103&nvorlageid=15&nabschlussid=)' +
         ' \n• [Visualisation des modules (PDF)](https://cf.ict-berufsbildung.ch/modules.php?Mbk&a=20105&nvorlageid=15)' +
-        ' \n• [Plan d’études pour les écoles professionnelles](https://www.ict-berufsbildung.ch/fileadmin/user_upload/PlanEtudesEcole_INFO_V1.0_du_1.4.2014.pdf)'
+        ' \n• [Plan d’études pour les écoles professionnelles](https://www.ict-berufsbildung.ch/fileadmin/user_upload/PlanEtudesEcole_INFO_V1.0_du_1.4.2014.pdf)' +
+        ' \n\n _Ce bot est actuellement en version ' + package.version + '_'
     return bot.sendMessage(msg.chat.id, messageInfos, {parseMode: 'Markdown'});
 });
 
