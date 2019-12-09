@@ -1,6 +1,6 @@
 {
   "name": "ict-bot",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "An ICT telegram bot",
   "main": "index.js",
   "dependencies": {
@@ -21,7 +21,7 @@
     "bot"
   ],
   "author": "SaphireVert",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SaphireVert/ict-bot/issues"
   },
