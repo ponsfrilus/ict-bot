@@ -1,5 +1,0 @@
-start - Commande principale du bot, affiche l'aide
-help - Affiche cette liste
-module - Suivi du n° du module, affiche les informations générales relatives à celui-ci
-list - Affiche la liste de tous les modules
-info - Donne les informations générales sur le bot
