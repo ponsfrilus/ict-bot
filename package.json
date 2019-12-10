@@ -4,6 +4,9 @@
   "description": "An ICT telegram bot",
   "main": "index.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
     "telebot": "^1.2.6"
   },
   "devDependencies": {},

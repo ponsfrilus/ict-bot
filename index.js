@@ -30,8 +30,11 @@ bot.on(/^\/module(.+)$/, (msg, props) => {
     const moduleID = props.match[1].trim();
     if (typeof(modules[moduleID]) !== 'undefined') {
         var text = '*' + modules[moduleID].name + '* (' + moduleID + ')\n\n' +
-        '• Type : ' + modules[moduleID].type + '\n' +
-        '• Catégorie : ' + modules[moduleID].category + '\n\n' +
+        '• Compétences : ' + modules[moduleID].skill + '\n' +
+        '• Domaine : ' + modules[moduleID].category + '\n' +
+        '• Pré-requis : ' + modules[moduleID].preRequired + '\n' +
+        '• Date de publication : ' + modules[moduleID].date + '\n' +
+        '• Identification du module : [PDF](' + modules[moduleID].PDFLink + ')\n\n' +
         'Pour plus d\'infos, cliquez sur [ce lien](' + modules[moduleID].link + ')';
     } else {
         var text = 'Ce module n\'existe pas...';
