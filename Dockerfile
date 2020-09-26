@@ -1,6 +1,7 @@
 FROM node:13
-LABEL version=0.0.2
+LABEL version=0.0.5
 LABEL maintainer="Jérôme Cosandey"
+LABEL maintainer="Nicolas Borboën"
 
 RUN mkdir -p /usr/src/app
 COPY data.json /usr/src/app
@@ -16,8 +17,8 @@ CMD ["npm", "start"]
 
 # Please note that you will need the relevant BOT_TOKEN information exported in
 # your shell environment
-# Build: docker build -t saphirevert/ict-bot:0.0.2 .
-# Run: docker run -it --rm --name ict-bot -e BOT_TOKEN saphirevert/ict-bot:0.0.2
+# Build: docker build -t epflsi/ict-bot:0.0.5 .
+# Run: docker run -it --rm --name ict-bot -e BOT_TOKEN epflsi/ict-bot:0.0.5
 # Test: docker exec -it ict-bot bash
-# Run Prod: docker run -d --rm --name ict-bot -e BOT_TOKEN saphirevert/ict-bot:0.0.2
+# Run Prod: docker run -d --rm --name ict-bot -e BOT_TOKEN epflsi/ict-bot:0.0.5
 # Stop: docker stop ict-bot
