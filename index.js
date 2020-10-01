@@ -48,7 +48,10 @@ bot.on(['/start', '/help', '/h'], (msg) => {
                       ' • /help | /h - Affiche cette liste\n' +
                       ' • /module <numModule> - Affiche les informations générales relatives au module\n' +
                       ' • /list | /all | /modules - Affiche la liste de tous les modules\n' +
-                      ' • /info - Donne des informations générales sur le bot'
+                      ' • /info - Donne des informations générales sur le bot' +
+                      ' \n\n _Ce bot est actuellement en version ' + package.version + '_' +
+                      ' \n *Code Source :* [ICT-BOT Github](https://github.com/ponsfrilus/ict-bot)' +
+                      ' \n *Signaler un bug :* [ICT-BOT Issues](https://github.com/ponsfrilus/ict-bot/issues)'
     return bot.sendMessage(msg.chat.id, messageHelp, {parseMode: 'Markdown'});
 });
 
@@ -77,7 +80,9 @@ bot.on('/info', (msg) => {
         ' \n• [Visualisation des modules](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20103&nvorlageid=15&nabschlussid=)' +
         ' \n• [Visualisation des modules (PDF)](https://cf.ict-berufsbildung.ch/modules.php?Mbk&a=20105&nvorlageid=15)' +
         ' \n• [Plan d’études pour les écoles professionnelles](https://www.ict-berufsbildung.ch/fileadmin/user_upload/PlanEtudesEcole_INFO_V1.0_du_1.4.2014.pdf)' +
-        ' \n\n _Ce bot est actuellement en version ' + package.version + '_'
+        ' \n\n _Ce bot est actuellement en version ' + package.version + '_' +
+        ' \n *Code Source :* [ICT-BOT Github](https://github.com/ponsfrilus/ict-bot)' +
+        ' \n *Signaler un bug :* [ICT-BOT Issues](https://github.com/ponsfrilus/ict-bot/issues)'
     return bot.sendMessage(msg.chat.id, messageInfos, {parseMode: 'Markdown'});
 });
 
