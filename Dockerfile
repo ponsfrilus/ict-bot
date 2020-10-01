@@ -1,5 +1,5 @@
 FROM node:13
-LABEL version=0.0.5
+LABEL version=0.0.6
 LABEL maintainer="Jérôme Cosandey"
 LABEL maintainer="Nicolas Borboën"
 
@@ -15,10 +15,10 @@ RUN npm install
 
 CMD ["npm", "start"]
 
-# Please note that you will need the relevant BOT_TOKEN information exported in
+# Please note that you will need the relevant ICT_BOT_TOKEN information exported in
 # your shell environment
-# Build: docker build -t epflsi/ict-bot:0.0.5 .
-# Run: docker run -it --rm --name ict-bot -e BOT_TOKEN epflsi/ict-bot:0.0.5
+# Build: docker build -t epflsi/ict-bot:$(jq -r ".version" package.json) .
+# Run: docker run -it --rm --name ict-bot -e ICT_BOT_TOKEN epflsi/ict-bot:$(jq -r ".version" package.json)
 # Test: docker exec -it ict-bot bash
-# Run Prod: docker run -d --rm --name ict-bot -e BOT_TOKEN epflsi/ict-bot:0.0.5
+# Run Prod: docker run -d --rm --name ict-bot -e ICT_BOT_TOKEN epflsi/ict-bot:latest
 # Stop: docker stop ict-bot
