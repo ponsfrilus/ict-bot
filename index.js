@@ -3,10 +3,10 @@ const TeleBot = require('telebot');
 var BoToken = null;
 try {
   var secret = require("./secret.json");
-  BoToken = secret.BOT_TOKEN;
+  BoToken = secret.ICT_BOT_TOKEN;
 } catch (e) {
-  console.log("Pas de secrets trouvé, on utilise process.env.BOT_TOKEN");
-  BoToken = process.env.BOT_TOKEN;
+  console.log("Pas de secrets trouvé, on utilise process.env.ICT_BOT_TOKEN");
+  BoToken = process.env.ICT_BOT_TOKEN;
 }
 const modules = require('./data.json');
 const bot = new TeleBot(BoToken);
