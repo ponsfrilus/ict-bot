@@ -12,7 +12,7 @@ async function run() {
     let url = baseURL + 'modules.php?name=Mbk&a=20101&cmodnr='+ moduleID +'&noheader=0&clang=' + lang
     let body = await getURLBody(url)
     const $ = cheerio.load(body)
-    let pdfLink = $('[data-title="Description de module"] .tooltip--top').attr('href')
+    let pdfLink = $('[data-title="Description de module"] .tooltip--top').attr('href') + '&clang=' + lang
     if (typeof pdfLink !== 'undefined' && pdfLink) {
       moduleDetail[moduleID] = {}
       moduleDetail = getDetails($, moduleDetail, moduleID, url)
@@ -34,7 +34,7 @@ async function getURLBody(url) {
 }
 
 function getDetails ($, moduleDetail, moduleID, url) {
-    let linkToPDF = baseURL + $('[data-title="Description de module"] .tooltip--top').attr('href')
+    let linkToPDF = baseURL + $('[data-title="Description de module"] .tooltip--top').attr('href') + '&clang=' + lang
     const details = []
     let competences = $('[data-title="Description de module"] dl').children().each(function (i, elem) {
         details[i] = $(this).text()
@@ -45,7 +45,7 @@ function getDetails ($, moduleDetail, moduleID, url) {
             moduleDetail[moduleID][details[i]] = details[i+1]
         }
     }
-    
+
     moduleDetail[moduleID]['id'] = moduleID
     moduleDetail[moduleID]['name'] = moduleDetail[moduleID]['Module']
     moduleDetail[moduleID]['skill'] = moduleDetail[moduleID]['Compétence']
