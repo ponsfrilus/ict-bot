@@ -1,10 +1,4 @@
 {
-  "99": {
-    "id": 99,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=99&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "100": {
     "id": 100,
     "name": "Distinguer, préparer et évaluer des données",
@@ -32,18 +26,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=101&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=408&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "102": {
-    "id": 102,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=102&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "103": {
-    "id": 103,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=103&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "104": {
     "id": 104,
@@ -73,54 +55,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=430&cdateiformat=pdf&clang=fr",
     "date": "29.09.2015 17:22:58"
   },
-  "106": {
-    "id": 106,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=106&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "107": {
-    "id": 107,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=107&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "108": {
-    "id": 108,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=108&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "109": {
-    "id": 109,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=109&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "110": {
-    "id": 110,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=110&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "111": {
-    "id": 111,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=111&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "112": {
-    "id": 112,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=112&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "113": {
-    "id": 113,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=113&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "114": {
     "id": 114,
     "name": "Mettre en œuvre des systèmes de codification, de compression et d’encryptage.",
@@ -149,12 +83,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=282&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "116": {
-    "id": 116,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=116&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "117": {
     "id": 117,
     "name": "Mettre en place l’infrastructure informatique d’une petite entreprise",
@@ -168,18 +96,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=117&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=414&cdateiformat=pdf&clang=fr",
     "date": "12.08.2014 18:49:01"
-  },
-  "118": {
-    "id": 118,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=118&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "119": {
-    "id": 119,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=119&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "120": {
     "id": 120,
@@ -251,12 +167,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=438&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
   },
-  "125": {
-    "id": 125,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=125&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "126": {
     "id": 126,
     "name": "Installer des périphériques en réseau.",
@@ -284,12 +194,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=127&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=442&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "128": {
-    "id": 128,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=128&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "129": {
     "id": 129,
@@ -319,18 +223,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=446&cdateiformat=pdf&clang=fr",
     "date": "08.07.2015 11:36:30"
   },
-  "131": {
-    "id": 131,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=131&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "132": {
-    "id": 132,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=132&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "133": {
     "id": 133,
     "name": "Réaliser des applications Web en Session-Handling",
@@ -345,30 +237,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=448&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
   },
-  "134": {
-    "id": 134,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=134&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "135": {
-    "id": 135,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=135&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "136": {
-    "id": 136,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=136&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "137": {
-    "id": 137,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=137&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "138": {
     "id": 138,
     "name": "Planifier et installer des places de travail informatique.",
@@ -382,12 +250,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=138&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=106&cdateiformat=pdf&clang=fr",
     "date": "01.10.2015 14:27:31"
-  },
-  "139": {
-    "id": 139,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=139&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "140": {
     "id": 140,
@@ -417,12 +279,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=450&cdateiformat=pdf&clang=fr",
     "date": "12.08.2014 19:04:29"
   },
-  "142": {
-    "id": 142,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=142&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "143": {
     "id": 143,
     "name": "Implanter un système de sauvegarde et de restauration",
@@ -436,12 +292,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=143&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=452&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "144": {
-    "id": 144,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=144&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "145": {
     "id": 145,
@@ -470,24 +320,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=146&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=456&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "147": {
-    "id": 147,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=147&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "148": {
-    "id": 148,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=148&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "149": {
-    "id": 149,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=149&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "150": {
     "id": 150,
@@ -599,7 +431,7 @@
     "documentFor": "Certificat fédéral de capacité",
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=157&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=578&cdateiformat=pdf&clang=fr",
-    "date": "01.02.2018 11:07:45Publié: 07.06.2014 17:15:31"
+    "date": "08.02.2021 10:11:14Publié: 07.06.2014 17:15:31"
   },
   "158": {
     "id": 158,
@@ -629,12 +461,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=472&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
   },
-  "160": {
-    "id": 160,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=160&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "161": {
     "id": 161,
     "name": "Exploiter des services de communication fixe",
@@ -648,30 +474,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=161&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=349&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "162": {
-    "id": 162,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=162&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "163": {
-    "id": 163,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=163&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "164": {
-    "id": 164,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=164&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "165": {
-    "id": 165,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=165&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "166": {
     "id": 166,
@@ -715,48 +517,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=373&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "169": {
-    "id": 169,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=169&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "170": {
-    "id": 170,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=170&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "171": {
-    "id": 171,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=171&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "172": {
-    "id": 172,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=172&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "173": {
-    "id": 173,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=173&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "174": {
-    "id": 174,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=174&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "175": {
-    "id": 175,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=175&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "176": {
     "id": 176,
     "name": "Assurer la sécurité de l’information",
@@ -784,24 +544,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=177&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=382&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "178": {
-    "id": 178,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=178&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "179": {
-    "id": 179,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=179&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "180": {
-    "id": 180,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=180&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "181": {
     "id": 181,
@@ -873,42 +615,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=708&cdateiformat=pdf&clang=fr",
     "date": "26.08.2020 11:15:02"
   },
-  "186": {
-    "id": 186,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=186&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "187": {
-    "id": 187,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=187&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "188": {
-    "id": 188,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=188&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "189": {
-    "id": 189,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=189&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "190": {
-    "id": 190,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=190&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "191": {
-    "id": 191,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=191&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "192": {
     "id": 192,
     "name": "Délimiter des systèmes et spécifier des exigences",
@@ -922,60 +628,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=192&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=355&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "193": {
-    "id": 193,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=193&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "194": {
-    "id": 194,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=194&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "195": {
-    "id": 195,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=195&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "196": {
-    "id": 196,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=196&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "197": {
-    "id": 197,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=197&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "198": {
-    "id": 198,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=198&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "199": {
-    "id": 199,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=199&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "200": {
-    "id": 200,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=200&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "201": {
-    "id": 201,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=201&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "202": {
     "id": 202,
@@ -991,30 +643,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=388&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "203": {
-    "id": 203,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=203&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "204": {
-    "id": 204,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=204&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "205": {
-    "id": 205,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=205&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "206": {
-    "id": 206,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=206&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "207": {
     "id": 207,
     "name": "Analyser et budgétiser des prestations TIC",
@@ -1028,36 +656,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=207&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=356&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "208": {
-    "id": 208,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=208&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "209": {
-    "id": 209,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=209&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "210": {
-    "id": 210,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=210&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "211": {
-    "id": 211,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=211&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "212": {
-    "id": 212,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=212&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "213": {
     "id": 213,
@@ -1087,54 +685,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=482&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
   },
-  "215": {
-    "id": 215,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=215&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "216": {
-    "id": 216,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=216&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "217": {
-    "id": 217,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=217&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "218": {
-    "id": 218,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=218&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "219": {
-    "id": 219,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=219&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "220": {
-    "id": 220,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=220&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "221": {
-    "id": 221,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=221&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "222": {
-    "id": 222,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=222&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "223": {
     "id": 223,
     "name": "Réaliser des applications multi-utilisateurs orientées objets.",
@@ -1148,18 +698,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=223&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=484&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "224": {
-    "id": 224,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=224&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "225": {
-    "id": 225,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=225&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "226": {
     "id": 226,
@@ -1175,78 +713,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=292&cdateiformat=pdf&clang=fr",
     "date": "10.05.2017 14:05:01"
   },
-  "227": {
-    "id": 227,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=227&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "228": {
-    "id": 228,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=228&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "229": {
-    "id": 229,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=229&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "230": {
-    "id": 230,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=230&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "231": {
-    "id": 231,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=231&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "232": {
-    "id": 232,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=232&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "233": {
-    "id": 233,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=233&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "234": {
-    "id": 234,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=234&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "235": {
-    "id": 235,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=235&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "236": {
-    "id": 236,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=236&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "237": {
-    "id": 237,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=237&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "238": {
-    "id": 238,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=238&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "239": {
     "id": 239,
     "name": "Mettre en service un serveur Web.",
@@ -1260,18 +726,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=239&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=486&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "240": {
-    "id": 240,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=240&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "241": {
-    "id": 241,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=241&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "242": {
     "id": 242,
@@ -1287,42 +741,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=488&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
   },
-  "243": {
-    "id": 243,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=243&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "244": {
-    "id": 244,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=244&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "245": {
-    "id": 245,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=245&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "246": {
-    "id": 246,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=246&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "247": {
-    "id": 247,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=247&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "248": {
-    "id": 248,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=248&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "249": {
     "id": 249,
     "name": "Planifier et superviser des projets",
@@ -1336,24 +754,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=249&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=357&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "250": {
-    "id": 250,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=250&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "251": {
-    "id": 251,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=251&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "252": {
-    "id": 252,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=252&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "253": {
     "id": 253,
@@ -1371,7 +771,7 @@
   },
   "254": {
     "id": 254,
-    "name": "Décrire des processus métier",
+    "name": "Décrire les processus métier dans votre propre environnement professionnel",
     "skill": "Documenter des processus métier, mettre en œuvre l´analyse de tâches et représenter graphiquement les déroulements du processus.",
     "category": "Business Engineering",
     "object": "Processus commercial existant, contenant toutes les formes de base des relations chronologiques et comprenant 10-20 étapes du processus.",
@@ -1381,13 +781,7 @@
     "documentFor": "Certificat fédéral de capacité",
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=254&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=490&cdateiformat=pdf&clang=fr",
-    "date": "12.08.2014 19:04:50"
-  },
-  "255": {
-    "id": 255,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=255&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
+    "date": "20.04.2021 10:41:47"
   },
   "256": {
     "id": 256,
@@ -1402,24 +796,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=256&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=338&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "257": {
-    "id": 257,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=257&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "258": {
-    "id": 258,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=258&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "259": {
-    "id": 259,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=259&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "260": {
     "id": 260,
@@ -1659,12 +1035,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=664&cdateiformat=pdf&clang=fr",
     "date": "27.03.2019 12:01:16"
   },
-  "277": {
-    "id": 277,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=277&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "278": {
     "id": 278,
     "name": "Analyser le marché et en déduire les objectifs",
@@ -1875,48 +1245,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=710&cdateiformat=pdf&clang=fr",
     "date": "26.08.2020 11:36:00"
   },
-  "293": {
-    "id": 293,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=293&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "294": {
-    "id": 294,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=294&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "295": {
-    "id": 295,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=295&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "296": {
-    "id": 296,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=296&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "297": {
-    "id": 297,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=297&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "298": {
-    "id": 298,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=298&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "299": {
-    "id": 299,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=299&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "300": {
     "id": 300,
     "name": "Intégrer des services réseau mutli-plateformes.",
@@ -1958,12 +1286,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=302&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=494&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "303": {
-    "id": 303,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=303&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "304": {
     "id": 304,
@@ -2021,42 +1343,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=498&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
   },
-  "308": {
-    "id": 308,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=308&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "309": {
-    "id": 309,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=309&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "310": {
-    "id": 310,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=310&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "311": {
-    "id": 311,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=311&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "312": {
-    "id": 312,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=312&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "313": {
-    "id": 313,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=313&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "314": {
     "id": 314,
     "name": "Calculer la rentabilité d’investissements TIC",
@@ -2070,24 +1356,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=314&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=374&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "315": {
-    "id": 315,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=315&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "316": {
-    "id": 316,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=316&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "317": {
-    "id": 317,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=317&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "318": {
     "id": 318,
@@ -2103,48 +1371,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=500&cdateiformat=pdf&clang=fr",
     "date": "18.09.2014 14:17:07"
   },
-  "319": {
-    "id": 319,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=319&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "320": {
-    "id": 320,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=320&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "321": {
-    "id": 321,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=321&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "322": {
-    "id": 322,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=322&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "323": {
-    "id": 323,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=323&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "324": {
-    "id": 324,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=324&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "325": {
-    "id": 325,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=325&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "326": {
     "id": 326,
     "name": "Développer et implémenter orienté objets.",
@@ -2158,24 +1384,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=326&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=502&cdateiformat=pdf&clang=fr",
     "date": "07.06.2014 17:15:31"
-  },
-  "327": {
-    "id": 327,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=327&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "328": {
-    "id": 328,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=328&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "329": {
-    "id": 329,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=329&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "330": {
     "id": 330,
@@ -2191,30 +1399,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=504&cdateiformat=pdf&clang=fr",
     "date": "18.09.2014 10:09:09"
   },
-  "331": {
-    "id": 331,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=331&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "332": {
-    "id": 332,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=332&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "333": {
-    "id": 333,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=333&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "334": {
-    "id": 334,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=334&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "335": {
     "id": 335,
     "name": "Réaliser une application pour mobile.",
@@ -2229,30 +1413,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=506&cdateiformat=pdf&clang=fr",
     "date": "18.09.2014 10:09:44"
   },
-  "336": {
-    "id": 336,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=336&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "337": {
-    "id": 337,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=337&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "338": {
-    "id": 338,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=338&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "339": {
-    "id": 339,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=339&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "340": {
     "id": 340,
     "name": "Virtualiser une infrastructure informatique.",
@@ -2266,378 +1426,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=340&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=508&cdateiformat=pdf&clang=fr",
     "date": "12.09.2017 11:28:48"
-  },
-  "341": {
-    "id": 341,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=341&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "342": {
-    "id": 342,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=342&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "343": {
-    "id": 343,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=343&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "344": {
-    "id": 344,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=344&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "345": {
-    "id": 345,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=345&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "346": {
-    "id": 346,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=346&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "347": {
-    "id": 347,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=347&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "348": {
-    "id": 348,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=348&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "349": {
-    "id": 349,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=349&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "350": {
-    "id": 350,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=350&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "351": {
-    "id": 351,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=351&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "352": {
-    "id": 352,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=352&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "353": {
-    "id": 353,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=353&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "354": {
-    "id": 354,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=354&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "355": {
-    "id": 355,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=355&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "356": {
-    "id": 356,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=356&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "357": {
-    "id": 357,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=357&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "358": {
-    "id": 358,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=358&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "359": {
-    "id": 359,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=359&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "360": {
-    "id": 360,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=360&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "361": {
-    "id": 361,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=361&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "362": {
-    "id": 362,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=362&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "363": {
-    "id": 363,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=363&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "364": {
-    "id": 364,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=364&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "365": {
-    "id": 365,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=365&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "366": {
-    "id": 366,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=366&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "367": {
-    "id": 367,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=367&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "368": {
-    "id": 368,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=368&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "369": {
-    "id": 369,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=369&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "370": {
-    "id": 370,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=370&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "371": {
-    "id": 371,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=371&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "372": {
-    "id": 372,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=372&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "373": {
-    "id": 373,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=373&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "374": {
-    "id": 374,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=374&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "375": {
-    "id": 375,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=375&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "376": {
-    "id": 376,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=376&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "377": {
-    "id": 377,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=377&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "378": {
-    "id": 378,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=378&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "379": {
-    "id": 379,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=379&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "380": {
-    "id": 380,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=380&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "381": {
-    "id": 381,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=381&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "382": {
-    "id": 382,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=382&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "383": {
-    "id": 383,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=383&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "384": {
-    "id": 384,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=384&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "385": {
-    "id": 385,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=385&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "386": {
-    "id": 386,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=386&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "387": {
-    "id": 387,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=387&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "388": {
-    "id": 388,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=388&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "389": {
-    "id": 389,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=389&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "390": {
-    "id": 390,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=390&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "391": {
-    "id": 391,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=391&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "392": {
-    "id": 392,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=392&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "393": {
-    "id": 393,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=393&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "394": {
-    "id": 394,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=394&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "395": {
-    "id": 395,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=395&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "396": {
-    "id": 396,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=396&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "397": {
-    "id": 397,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=397&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "398": {
-    "id": 398,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=398&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "399": {
-    "id": 399,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=399&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "400": {
-    "id": 400,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=400&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "401": {
-    "id": 401,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=401&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "402": {
-    "id": 402,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=402&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "403": {
     "id": 403,
@@ -2667,42 +1455,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=424&cdateiformat=pdf&clang=fr",
     "date": "10.09.2014 17:38:37"
   },
-  "405": {
-    "id": 405,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=405&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "406": {
-    "id": 406,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=406&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "407": {
-    "id": 407,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=407&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "408": {
-    "id": 408,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=408&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "409": {
-    "id": 409,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=409&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "410": {
-    "id": 410,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=410&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "411": {
     "id": 411,
     "name": "Développer et appliquer des structures de données et algorithmes.",
@@ -2716,18 +1468,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=411&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=510&cdateiformat=pdf&clang=fr",
     "date": "10.09.2014 17:54:36"
-  },
-  "412": {
-    "id": 412,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=412&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "413": {
-    "id": 413,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=413&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "414": {
     "id": 414,
@@ -2813,18 +1553,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=367&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "420": {
-    "id": 420,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=420&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "421": {
-    "id": 421,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=421&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "422": {
     "id": 422,
     "name": "Identifier les potentiels d’optimisation et réaliser les solutions",
@@ -2867,12 +1595,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=393&cdateiformat=pdf&clang=fr",
     "date": "05.12.2016 10:59:23"
   },
-  "425": {
-    "id": 425,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=425&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "426": {
     "id": 426,
     "name": "Développer un logiciel avec des méthodes agiles.",
@@ -2886,30 +1608,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=426&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=512&cdateiformat=pdf&clang=fr",
     "date": "10.09.2014 17:54:53"
-  },
-  "427": {
-    "id": 427,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=427&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "428": {
-    "id": 428,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=428&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "429": {
-    "id": 429,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=429&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "430": {
-    "id": 430,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=430&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "431": {
     "id": 431,
@@ -2925,36 +1623,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=426&cdateiformat=pdf&clang=fr",
     "date": "20.01.2015 10:10:04"
   },
-  "432": {
-    "id": 432,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=432&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "433": {
-    "id": 433,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=433&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "434": {
-    "id": 434,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=434&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "435": {
-    "id": 435,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=435&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "436": {
-    "id": 436,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=436&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "437": {
     "id": 437,
     "name": "Travailler dans le support.",
@@ -2969,24 +1637,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=514&cdateiformat=pdf&clang=fr",
     "date": "18.09.2014 15:51:04"
   },
-  "438": {
-    "id": 438,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=438&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "439": {
-    "id": 439,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=439&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "440": {
-    "id": 440,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=440&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "441": {
     "id": 441,
     "name": "Concevoir et réaliser des solutions de virtualisation",
@@ -3000,60 +1650,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=441&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=383&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "442": {
-    "id": 442,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=442&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "443": {
-    "id": 443,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=443&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "444": {
-    "id": 444,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=444&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "445": {
-    "id": 445,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=445&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "446": {
-    "id": 446,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=446&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "447": {
-    "id": 447,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=447&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "448": {
-    "id": 448,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=448&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "449": {
-    "id": 449,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=449&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "450": {
-    "id": 450,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=450&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "451": {
     "id": 451,
@@ -3083,12 +1679,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=358&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "453": {
-    "id": 453,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=453&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "454": {
     "id": 454,
     "name": "Organiser un centre de services",
@@ -3102,30 +1692,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=454&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=384&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "455": {
-    "id": 455,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=455&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "456": {
-    "id": 456,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=456&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "457": {
-    "id": 457,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=457&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "458": {
-    "id": 458,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=458&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "459": {
     "id": 459,
@@ -3141,12 +1707,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=370&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "460": {
-    "id": 460,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=460&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "461": {
     "id": 461,
     "name": "Intégrer des services de communication mobile",
@@ -3161,60 +1721,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=362&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "462": {
-    "id": 462,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=462&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "463": {
-    "id": 463,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=463&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "464": {
-    "id": 464,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=464&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "465": {
-    "id": 465,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=465&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "466": {
-    "id": 466,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=466&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "467": {
-    "id": 467,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=467&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "468": {
-    "id": 468,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=468&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "469": {
-    "id": 469,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=469&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "470": {
-    "id": 470,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=470&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "471": {
     "id": 471,
     "name": "Optimiser des réseaux",
@@ -3228,24 +1734,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=471&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=385&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
-  },
-  "472": {
-    "id": 472,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=472&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "473": {
-    "id": 473,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=473&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "474": {
-    "id": 474,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=474&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "475": {
     "id": 475,
@@ -3317,18 +1805,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=371&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "480": {
-    "id": 480,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=480&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "481": {
-    "id": 481,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=481&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "482": {
     "id": 482,
     "name": "Tester et superviser le fonctionnement de composants d’infrastructure TIC",
@@ -3343,24 +1819,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=386&cdateiformat=pdf&clang=fr",
     "date": "24.05.2014 15:37:28"
   },
-  "483": {
-    "id": 483,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=483&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "484": {
-    "id": 484,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=484&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "485": {
-    "id": 485,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=485&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "486": {
     "id": 486,
     "name": "Implémenter des mesures de sécurité de réseau et de système",
@@ -3374,36 +1832,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=486&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=387&cdateiformat=pdf&clang=fr",
     "date": "10.05.2017 14:16:33"
-  },
-  "487": {
-    "id": 487,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=487&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "488": {
-    "id": 488,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=488&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "489": {
-    "id": 489,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=489&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "490": {
-    "id": 490,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=490&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "491": {
-    "id": 491,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=491&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "492": {
     "id": 492,
@@ -3503,618 +1931,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=380&cdateiformat=pdf&clang=fr",
     "date": "29.04.2016 16:26:48"
   },
-  "499": {
-    "id": 499,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=499&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "500": {
-    "id": 500,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=500&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "501": {
-    "id": 501,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=501&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "502": {
-    "id": 502,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=502&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "503": {
-    "id": 503,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=503&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "504": {
-    "id": 504,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=504&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "505": {
-    "id": 505,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=505&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "506": {
-    "id": 506,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=506&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "507": {
-    "id": 507,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=507&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "508": {
-    "id": 508,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=508&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "509": {
-    "id": 509,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=509&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "510": {
-    "id": 510,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=510&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "511": {
-    "id": 511,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=511&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "512": {
-    "id": 512,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=512&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "513": {
-    "id": 513,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=513&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "514": {
-    "id": 514,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=514&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "515": {
-    "id": 515,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=515&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "516": {
-    "id": 516,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=516&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "517": {
-    "id": 517,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=517&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "518": {
-    "id": 518,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=518&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "519": {
-    "id": 519,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=519&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "520": {
-    "id": 520,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=520&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "521": {
-    "id": 521,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=521&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "522": {
-    "id": 522,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=522&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "523": {
-    "id": 523,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=523&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "524": {
-    "id": 524,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=524&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "525": {
-    "id": 525,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=525&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "526": {
-    "id": 526,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=526&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "527": {
-    "id": 527,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=527&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "528": {
-    "id": 528,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=528&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "529": {
-    "id": 529,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=529&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "530": {
-    "id": 530,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=530&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "531": {
-    "id": 531,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=531&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "532": {
-    "id": 532,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=532&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "533": {
-    "id": 533,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=533&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "534": {
-    "id": 534,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=534&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "535": {
-    "id": 535,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=535&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "536": {
-    "id": 536,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=536&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "537": {
-    "id": 537,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=537&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "538": {
-    "id": 538,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=538&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "539": {
-    "id": 539,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=539&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "540": {
-    "id": 540,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=540&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "541": {
-    "id": 541,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=541&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "542": {
-    "id": 542,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=542&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "543": {
-    "id": 543,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=543&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "544": {
-    "id": 544,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=544&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "545": {
-    "id": 545,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=545&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "546": {
-    "id": 546,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=546&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "547": {
-    "id": 547,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=547&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "548": {
-    "id": 548,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=548&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "549": {
-    "id": 549,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=549&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "550": {
-    "id": 550,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=550&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "551": {
-    "id": 551,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=551&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "552": {
-    "id": 552,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=552&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "553": {
-    "id": 553,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=553&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "554": {
-    "id": 554,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=554&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "555": {
-    "id": 555,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=555&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "556": {
-    "id": 556,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=556&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "557": {
-    "id": 557,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=557&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "558": {
-    "id": 558,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=558&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "559": {
-    "id": 559,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=559&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "560": {
-    "id": 560,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=560&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "561": {
-    "id": 561,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=561&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "562": {
-    "id": 562,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=562&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "563": {
-    "id": 563,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=563&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "564": {
-    "id": 564,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=564&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "565": {
-    "id": 565,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=565&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "566": {
-    "id": 566,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=566&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "567": {
-    "id": 567,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=567&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "568": {
-    "id": 568,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=568&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "569": {
-    "id": 569,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=569&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "570": {
-    "id": 570,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=570&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "571": {
-    "id": 571,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=571&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "572": {
-    "id": 572,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=572&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "573": {
-    "id": 573,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=573&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "574": {
-    "id": 574,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=574&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "575": {
-    "id": 575,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=575&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "576": {
-    "id": 576,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=576&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "577": {
-    "id": 577,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=577&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "578": {
-    "id": 578,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=578&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "579": {
-    "id": 579,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=579&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "580": {
-    "id": 580,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=580&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "581": {
-    "id": 581,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=581&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "582": {
-    "id": 582,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=582&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "583": {
-    "id": 583,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=583&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "584": {
-    "id": 584,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=584&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "585": {
-    "id": 585,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=585&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "586": {
-    "id": 586,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=586&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "587": {
-    "id": 587,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=587&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "588": {
-    "id": 588,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=588&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "589": {
-    "id": 589,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=589&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "590": {
-    "id": 590,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=590&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "591": {
-    "id": 591,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=591&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "592": {
-    "id": 592,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=592&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "593": {
-    "id": 593,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=593&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "594": {
-    "id": 594,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=594&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "595": {
-    "id": 595,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=595&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "596": {
-    "id": 596,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=596&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "597": {
-    "id": 597,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=597&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "598": {
-    "id": 598,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=598&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "599": {
-    "id": 599,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=599&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "600": {
-    "id": 600,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=600&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "601": {
     "id": 601,
     "name": "Développer une stratégie TIC",
@@ -4129,12 +1945,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=534&cdateiformat=pdf&clang=fr",
     "date": "02.10.2014 15:49:42"
   },
-  "602": {
-    "id": 602,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=602&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "603": {
     "id": 603,
     "name": "Fixer la stratégie des ressources",
@@ -4148,48 +1958,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=603&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=536&cdateiformat=pdf&clang=fr",
     "date": "02.10.2014 15:22:31"
-  },
-  "604": {
-    "id": 604,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=604&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "605": {
-    "id": 605,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=605&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "606": {
-    "id": 606,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=606&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "607": {
-    "id": 607,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=607&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "608": {
-    "id": 608,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=608&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "609": {
-    "id": 609,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=609&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "610": {
-    "id": 610,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=610&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "611": {
     "id": 611,
@@ -4232,48 +2000,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=613&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=542&cdateiformat=pdf&clang=fr",
     "date": "02.10.2014 15:24:33"
-  },
-  "614": {
-    "id": 614,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=614&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "615": {
-    "id": 615,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=615&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "616": {
-    "id": 616,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=616&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "617": {
-    "id": 617,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=617&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "618": {
-    "id": 618,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=618&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "619": {
-    "id": 619,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=619&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "620": {
-    "id": 620,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=620&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "621": {
     "id": 621,
@@ -4331,102 +2057,6 @@
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=550&cdateiformat=pdf&clang=fr",
     "date": "02.10.2014 15:26:22"
   },
-  "625": {
-    "id": 625,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=625&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "626": {
-    "id": 626,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=626&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "627": {
-    "id": 627,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=627&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "628": {
-    "id": 628,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=628&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "629": {
-    "id": 629,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=629&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "630": {
-    "id": 630,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=630&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "631": {
-    "id": 631,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=631&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "632": {
-    "id": 632,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=632&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "633": {
-    "id": 633,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=633&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "634": {
-    "id": 634,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=634&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "635": {
-    "id": 635,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=635&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "636": {
-    "id": 636,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=636&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "637": {
-    "id": 637,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=637&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "638": {
-    "id": 638,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=638&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "639": {
-    "id": 639,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=639&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "640": {
-    "id": 640,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=640&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
   "641": {
     "id": 641,
     "name": "Développer l’architecture TIC d’entreprise",
@@ -4468,48 +2098,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=643&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=556&cdateiformat=pdf&clang=fr",
     "date": "02.10.2014 15:28:13"
-  },
-  "644": {
-    "id": 644,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=644&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "645": {
-    "id": 645,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=645&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "646": {
-    "id": 646,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=646&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "647": {
-    "id": 647,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=647&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "648": {
-    "id": 648,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=648&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "649": {
-    "id": 649,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=649&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "650": {
-    "id": 650,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=650&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "651": {
     "id": 651,
@@ -4566,42 +2154,6 @@
     "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=654&noheader=0&clang=fr",
     "PDFLink": "https://cf.ict-berufsbildung.ch/modules.php?name=&a=20106&nmodulid=564&cdateiformat=pdf&clang=fr",
     "date": "02.10.2014 15:31:06"
-  },
-  "655": {
-    "id": 655,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=655&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "656": {
-    "id": 656,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=656&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "657": {
-    "id": 657,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=657&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "658": {
-    "id": 658,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=658&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "659": {
-    "id": 659,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=659&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
-  },
-  "660": {
-    "id": 660,
-    "link": "https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=660&noheader=0&clang=fr",
-    "PDFLink": "https://cf.ict-berufsbildung.ch/undefined&clang=fr",
-    "date": ""
   },
   "661": {
     "id": 661,
