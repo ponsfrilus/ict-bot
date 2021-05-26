@@ -16,10 +16,11 @@ const cmd = new Commands(bot);
 // Match any text
 bot.on('text', async (msg) => {
     let botInfos = await bot.getMe();
-    let msgArray = msg.text.substring(1).split(' ')
-    let cmdName = msgArray[0].split('@')[0].toLowerCase()
+    let msgArray = msg.text.split(' ')
+    let cmdName = msg.text[0] == "/" ? msgArray[0].substring(1).split('@')[0].toLowerCase() : msgArray[0].split('@')[0].toLowerCase()
+    console.log(cmdName);
     msg.props = msgArray
-    new RegExp(`(^${cmdName})(@${botInfos.username})?$`).test(msgArray[0].toLowerCase()) && typeof cmd[cmdName] === "function" ? cmd[cmdName](msg) : cmd.errorCmd(msg);
+    new RegExp(`(^${cmdName})(@${botInfos.username})?$`).test(msgArray[0].substring(1).toLowerCase()) && typeof cmd[cmdName] === "function" ? cmd[cmdName](msg) : cmd.errorCmd(msg);
     UsersLogs(msg);
 });
 
