@@ -1,0 +1,23 @@
+---
+- name: ensure that gitlabot repository is present
+  git:
+    repo: 'https://github.com/ponsfrilus/ict-bot'
+    dest: /srv/ict-bot
+    version: "master"
+    force: yes
+
+- name: Copy secrets from keybase
+  copy:
+    src: /keybase/team/epfl_idevfsd.apprentis.common/apprentis_projects/ict-bot/secret.json
+    dest: /srv/ict-bot/app/secret.json
+
+- name: Start docker container ict-bot
+  docker_compose:
+    project_src: /srv/ict-bot
+    state: present
+    build: yes
+    recreate: always
+    nocache: yes
+    pull: yes
+    files:
+      - docker-compose-prod.yml

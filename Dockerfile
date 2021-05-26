@@ -4,10 +4,7 @@ LABEL maintainer="Jérôme Cosandey"
 LABEL maintainer="Nicolas Borboën"
 
 RUN mkdir -p /usr/src/app
-COPY data.json /usr/src/app
-COPY package.json /usr/src/app
-COPY package-lock.json /usr/src/app
-COPY index.js /usr/src/app
+COPY ./dev /usr/src/app
 
 WORKDIR /usr/src/app
 
