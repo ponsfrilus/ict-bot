@@ -1,6 +1,6 @@
 {
   "name": "ict-bot",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Bot Telegram permettant d'obtenir les informations sur les modules disponibles pour les apprentis CFC en voie développement d'applications, selon l'ordonnance 2014 du SEFRI.",
   "main": "index.js",
   "dependencies": {
