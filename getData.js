@@ -8,14 +8,17 @@ var moduleDetail = {}
 
 async function run() {
   for (let moduleID = 99; moduleID < 700; moduleID++) {
-    console.debug('Processing module', moduleID)
+    console.debug('Trying to get module', moduleID)
     let url = baseURL + 'modules.php?name=Mbk&a=20101&cmodnr='+ moduleID +'&noheader=0&clang=' + lang
     let body = await getURLBody(url)
     const $ = cheerio.load(body)
-    let pdfLink = $('[data-title="Description de module"] .tooltip--top').attr('href') + '&clang=' + lang
+    let pdfLink = $('[data-title="Description de module"] .tooltip--top').attr('href')
     if (typeof pdfLink !== 'undefined' && pdfLink) {
+      console.log(`  ↪ processing...`)
       moduleDetail[moduleID] = {}
       moduleDetail = getDetails($, moduleDetail, moduleID, url)
+    } else {
+      console.log(`  ⇹ no data found!`)
     }
   }
 
