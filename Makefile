@@ -11,7 +11,7 @@ docker-dev: docker-build docker-tag docker-run
 docker-prod: docker-build docker-tag docker-run-prod docker-log
 
 docker-build:
-	docker build -t epflsi/ict-bot:$$(jq -r ".version" dev/package.json) .
+	docker build -t epflsi/ict-bot:$$(jq -r ".version" dev/package.json) -f ops/Dockerfile .
 
 docker-tag:
 	docker tag epflsi/ict-bot:$$(jq -r ".version" dev/package.json) epflsi/ict-bot:latest
