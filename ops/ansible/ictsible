@@ -4,11 +4,11 @@
 #
 # Usage ("ansible" mode):
 #
-#   ansible/botsible -m raw all_wordpresses -a 'echo {{ wp_dir }}'
+#   ops/ansible/botsible -m raw all_wordpresses -a 'echo {{ wp_dir }}'
 #
 # Usage ("ansible-playbook" mode):
 #
-#   ansible/botsible -l charte-wp-dcsl
+#   ops/ansible/botsible -l charte-wp-dcsl
 #
 #
 # If you are unfamiliar with Ansible, read up on it at
