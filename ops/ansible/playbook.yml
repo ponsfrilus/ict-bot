@@ -1,0 +1,15 @@
+
+- name: configure
+  hosts: all
+  roles:
+    - name: configure
+  tags:
+    - configure
+
+- name: ictsible
+  hosts: all
+  roles:
+    - name: ictsible
+  tags:
+    - ictsible
+    
