@@ -17,6 +17,8 @@
 
 cd "$(dirname "$0")"; cd "$(/bin/pwd)"
 
+export SUITCASE_ANSIBLE_VERSION="2.9.10"
+
 # One can override these on the command line
 playbook_flags=""
 ansible_flags=""

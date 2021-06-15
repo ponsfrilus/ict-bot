@@ -1,15 +1,14 @@
 
-- name: configure
+- name: ictbot
   hosts: all
   roles:
-    - name: configure
+    - name: ictbot
   tags:
-    - configure
+    - ictbot
 
-- name: ictsible
+- name: docker
   hosts: all
   roles:
-    - name: ictsible
+    - name: docker
   tags:
-    - ictsible
-    
+    - docker_install
