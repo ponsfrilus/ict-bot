@@ -1,9 +1,9 @@
 ---
 - name: ensure that gitlabot repository is present
   git:
-    repo: 'https://github.com/ponsfrilus/ict-bot'
+    repo: 'https://github.com/SaphireVert/ict-bot'
     dest: /srv/ict-bot
-    version: "master"
+    version: "deployment"
     force: yes
 
 - name: Copy secrets from keybase
