@@ -21,7 +21,7 @@ bot.on('text', async (msg) => {
         let cmdName = msgArray[0].substring(1).split('@')[0].toLowerCase()
         console.log(cmdName);
         msg.props = msgArray
-        new RegExp(`(^${cmdName})(@${botInfos.username})?$`).test(msgArray[0].substring(1).toLowerCase()) && typeof cmd[cmdName] === "function" ? cmd[cmdName](msg) : cmd.errorCmd(msg);
+        new RegExp(`(^${cmdName})(@${botInfos.username.toLowerCase()})?$`).test(msgArray[0].substring(1).toLowerCase()) && typeof cmd[cmdName] === "function" ? cmd[cmdName](msg) : cmd.errorCmd(msg);
         UsersLogs(msg);
     }
 });
